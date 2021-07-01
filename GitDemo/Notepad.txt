@@ -3,3 +3,7 @@
 2. There are many text editors out there but Notepad is most famous among them.
 3. Although it don't have fancy stuff, it is still widely used.
 4. It is known for its simplicity and ease of use.
+
+#This is Edit no 1
+So I've come here for editing this text file. And all I have done is just 
+added this line here. Nothing else.
