@@ -1,0 +1,5 @@
+#NOTEPAD
+1. Notepad is a default text editor in Windows Operating System.
+2. There are many text editors out there but Notepad is most famous among them.
+3. Although it don't have fancy stuff, it is still widely used.
+4. It is known for its simplicity and ease of use.
